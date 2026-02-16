@@ -1,0 +1,18 @@
+.action-tbl{
+    display: inline-block;
+    width: 150px;
+}
+.bttn-action{
+    width: 70px;
+    font-weight: bolder;
+}
+.action-tbl2{
+    width: 160px;
+    text-align: center !important;
+}
+.bttn-action2{
+    width: 85px;
+}
+.bttn-update{
+    width: 100%;
+}
